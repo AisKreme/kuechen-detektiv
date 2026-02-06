@@ -1,0 +1,17 @@
+{
+  "milch": {
+    "Menge": 2,
+    "Kalorien": 200,
+    "Mindestmenge": 1
+  },
+  "apfel": {
+    "Menge": 4,
+    "Kalorien": 200,
+    "Mindestmenge": 2
+  },
+  "birne": {
+    "Menge": 5,
+    "Kalorien": 50,
+    "Mindestmenge": 1
+  }
+}
